@@ -12,3 +12,6 @@ My first repository
 5. Professor Gerald Lambeau (Stellan Skarsgård)
 6. Morgan O'Mally (Casey Affleck)
 7. Billy McBride (Cole Hauser)
+
+## Moral of the story
+Everyone around you helps you realize what you really want in life and making them grow as well in the process.
